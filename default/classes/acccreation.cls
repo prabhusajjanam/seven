@@ -4,7 +4,7 @@
  * @Author             : Prabhu Sajjanam
  * @Group              : 
  * @Last Modified By   : Prabhu Sajjanam
- * @Last Modified On   : 4/3/2019, 12:31:34 PM
+ * @Last Modified On   : 4/3/2019, 12:33:52 PM
  * @Modification Log   : 
  *==============================================================================
  * Ver         Date                     Author      		      Modification
@@ -13,7 +13,7 @@
 **/
 //newcommit
 //second commit from seventwo project
-//added changes
+//added changes 1
 public class acccreation{
 
 public static void accmethod(list<account> acclist)
